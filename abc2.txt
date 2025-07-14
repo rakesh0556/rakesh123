@@ -4,6 +4,6 @@
 <title>program2</title>
 </head>
 <body>
-welcome to devops lab
+welcome to devops
 </body>
 </html>
