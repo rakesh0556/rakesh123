@@ -1,0 +1,9 @@
+<doctype html>
+<html>
+<head>
+<title>program2</title>
+</head>
+<body>
+welcome to devops lab
+</body>
+</html>
