@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>program1</title>
-<p>my name is rakesh boora </p>
+<p>my name is rakesh boora</p>
 </head>
 </html>
 
